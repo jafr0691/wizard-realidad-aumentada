@@ -31,15 +31,15 @@ Un pequeño proyecto para crear un juego basado en realidad aumentada
 
 
 
->Se muestra la informaciones de todas las opciones selecionadas con sus archivos subidos, para se confirmadas por el usuraio.
-
-![wizarInformacion](https://user-images.githubusercontent.com/36554510/233759062-ef7d8c2e-e91f-44b4-a70e-08115caa957d.jpg)
-
-
-
 >En este sistema solo por los momentos se tiene una sola opcion para crear el juego en la version de realidad aumentada con AR.js
 
 ![wizarBiblioteca](https://user-images.githubusercontent.com/36554510/233759066-5a07fb66-e32c-4849-872a-5c9f8f858133.jpg)
+
+
+
+>Se muestra la informaciones de todas las opciones selecionadas con sus archivos subidos, para se confirmadas por el usuraio.
+
+![wizarInformacion](https://user-images.githubusercontent.com/36554510/233759062-ef7d8c2e-e91f-44b4-a70e-08115caa957d.jpg)
 
 
 

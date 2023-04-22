@@ -1,0 +1,9 @@
+Tipo=Juego de reglas 
+Juego= Serpientes y escaleras 
+Evento_Inicio=index.js  
+Evento_Fin=index.js 
+Evento_Escalera=index.js 
+Evento_Serpiente=index.js
+
+
+
